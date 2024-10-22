@@ -1,0 +1,2 @@
+# MyNewProject
+Demo for Git
